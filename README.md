@@ -9,7 +9,7 @@ The website show a small collection of watches, with fully optimized pages follo
 The website is deployed and publicly accessible using **Netlify**
 
 ##### Live site:
-    https://watches-shop-online.netlify.app/
+    https://watches-shop-online.netlify.app
 
 ##### Robots.txt:
     https://watches-shop-online.netlify.app/robots.txt
