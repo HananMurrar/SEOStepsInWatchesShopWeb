@@ -1,3 +1,7 @@
 User-agent: *
 Allow: /
 Sitemap: sitemap.xml
+
+# User-agent: * → means all search engines
+# Allow: / → means they can see everything
+# Sitemap → points search engines to your sitemap
