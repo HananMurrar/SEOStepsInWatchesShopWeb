@@ -6,8 +6,8 @@ The website show a small collection of watches, with fully optimized pages for s
 #### Features and SEO implementations:
 
 #### On-page SEO:
-- Unique <title> and <meta description> for the page
-- Proper use of headings <h1>, <h2>, <h3> for content structure
+- Unique `<title>` and `<meta description>` for each page
+- Proper use of headings `<h1>`, `<h2>`, `<h3>` for content structure
 - Optimized the URLs for readability
 - Descriptive alt attributes for all images
 - Internal linking
