@@ -6,7 +6,7 @@ The website show a small collection of watches, with fully optimized pages follo
 
 #### Live website deployment:
 
-The website is deployed and publicly accessible using Netlify
+The website is deployed and publicly accessible using **Netlify**
 
 ##### Live site:
     https://watches-shop-online.netlify.app/
