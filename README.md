@@ -1,6 +1,7 @@
 ### SEO steps in the watches shop web
 
 This is a **practice SEO project** built to demonstrate different SEO skills 
+
 The website show a small collection of watches, with fully optimized pages for search engines
 
 #### Features and SEO implementations:
