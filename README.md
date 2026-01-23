@@ -10,7 +10,7 @@ The website show a small collection of watches, with fully optimized pages for s
 - Unique `<title>` and `<meta description>` for each page
 - Proper use of headings `<h1>`, `<h2>`, `<h3>` for content structure
 - Optimized the URLs for readability
-- Descriptive alt attributes for all images
+- Descriptive `alt` attributes for all images
 - Internal linking
   
 #### Content SEO:
