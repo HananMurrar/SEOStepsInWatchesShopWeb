@@ -1,5 +1,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yourusername.github.io/index.html</loc>
+    <loc>your live link here</loc>
   </url>
 </urlset>
+
+# the sitemap.xml is file that lists all the pages on your website, it helps search engines find your content faster
