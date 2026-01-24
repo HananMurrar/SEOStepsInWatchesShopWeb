@@ -54,7 +54,7 @@ This allows search engines to crawl, index, rank the website
 
 #### SEO analysis results:
 
-To evaluate the website SEO performance, I ran multiple tests using different tools, these tests cover different aspects of SEO, and the results below summarize the findings from each tool
+To evaluate the website SEO performance, I used several tools, and the results below summarize the main findings from each test
 
 ##### Seocheckr - free SEO checker:
 - Page title is well-optimized
@@ -63,7 +63,7 @@ To evaluate the website SEO performance, I ran multiple tests using different to
 - All images are properly optimized
 - Page loads very fast
 
-Conclusion: the SEO is correctly implemented, and the site provides a good user experience
+- Conclusion: the SEO is correctly implemented, and the site provides a good user experience
 
 ##### Google rich results test:
 - Page was successfully crawled and indexed
@@ -82,7 +82,7 @@ Conclusion: the structured data is properly implemented, and the page is ready f
 
 Conclusion: this keyword is suitable for content optimization to improve search visibility
 
-##### Google analytics and search console:
+##### Google analytics and Google search console:
 - The website is prepared for Google analytics and search console tracking
 
 Conclusion: for accurate data collection and analysis, the website needs to be live on Google
@@ -93,7 +93,7 @@ Conclusion: for accurate data collection and analysis, the website needs to be l
 - Total backlinks: 0
 - Linking websites: 0
 
-Conclusion: this is expected for a new project. As the website is promoted, backlinks will grow, which will improve authority and search engine ranking potential
+Conclusion: this is expected for a new project, as the website is promoted, backlinks will grow, which will improve authority and search engine ranking potential
 
 ##### GTmetrix - free:
 - Performance score: 99%
