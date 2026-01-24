@@ -4,6 +4,8 @@ This is a **practice SEO project** built to demonstrate different SEO skills on 
 
 The website show a small collection of watches, with fully optimized pages following SEO practices
 
+---
+
 #### Live website deployment:
 
 The website is deployed and publicly accessible using **Netlify**
