@@ -6,7 +6,7 @@ The website show a small collection of watches, with fully optimized pages follo
 
 ---
 
-<hr style="border:0.5px solid #ccc">
+<hr style="border:0.1px solid #ccc">
 
 
 #### Live website deployment:
