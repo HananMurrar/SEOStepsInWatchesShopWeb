@@ -4,11 +4,6 @@ This is a **practice SEO project** built to demonstrate different SEO skills on 
 
 The website show a small collection of watches, with fully optimized pages following SEO practices
 
----
-
-<hr style="border:0.0px solid #ccc">
-
-
 #### Live website deployment:
 
 The website is deployed and publicly accessible using **Netlify**
@@ -23,6 +18,8 @@ The website is deployed and publicly accessible using **Netlify**
     https://watches-shop-online.netlify.app/sitemap.xml
 
 This allows search engines to crawl, index, rank the website
+
+---
 
 #### Features and SEO implementations:
 
@@ -50,6 +47,8 @@ This allows search engines to crawl, index, rank the website
 ##### Off-page SEO: 
 - Prepared for backlink building and outreach
 - Social sharing strategy to improve brand visibility and authority
+
+---
 
 #### SEO analysis results:
 
@@ -104,6 +103,8 @@ Conclusion: this is expected for a new project. As the website is promoted, back
 - Cumulative layout shift (CLS): 0.05
 
 Conclusion: the website loads very fast, meets core web vitals standards, and is optimized for SEO and user experience
+
+---
 
 #### Project goals:
 - Apply real SEO techniques on a live website
