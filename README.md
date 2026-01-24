@@ -5,8 +5,6 @@ This is a **practice SEO project** built to demonstrate different SEO skills on 
 The website showcases a small collection of watches, with fully optimized pages following SEO practices
 
 ---
-![Uploading image.png…]()
-
 
 #### Live website deployment:
 
