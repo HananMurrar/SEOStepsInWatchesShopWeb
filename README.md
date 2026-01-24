@@ -2,7 +2,9 @@
 
 This is a **practice SEO project** built to demonstrate different SEO skills on a real, deployed website
 
-The website show a small collection of watches, with fully optimized pages following SEO practices
+The website showcases a small collection of watches, with fully optimized pages following SEO practices
+
+---
 
 #### Live website deployment:
 
@@ -52,9 +54,7 @@ This allows search engines to crawl, index, rank the website
 
 #### SEO analysis results:
 
-To evaluate the website SEO performance, I ran multiple tests using different tools
-
-These tests cover different aspects of SEO, and the results below summarize the findings from each tool
+To evaluate the website SEO performance, I ran multiple tests using different tools, these tests cover different aspects of SEO, and the results below summarize the findings from each tool
 
 ##### Seocheckr - free SEO checker:
 - Page title is well-optimized
