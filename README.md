@@ -21,20 +21,20 @@ This allows search engines to crawl, index, rank the website
 
 #### Features and SEO implementations:
 
-#### On-page SEO:
+##### On-page SEO:
 - Unique `<title>` and `<meta description>` for each page
 - Proper use of headings `<h1>`, `<h2>`, `<h3>` for clear content hierarchy
 - Optimized the URLs for readability
 - Descriptive `alt` attributes for all images
 - Internal linking
   
-#### Content SEO:
+##### Content SEO:
 - High-quality, keyword-focused product descriptions
 - Content structured to match user search intent
 - Optimized product images for performance and clarity
 - Clear call-to-action elements to improve engagement
 
-#### Technical SEO:
+##### Technical SEO:
 - Mobile-friendly design using responsive CSS
 - Optimized page speed and performance
 - The robots.txt file to guide search engine crawlers
@@ -42,7 +42,7 @@ This allows search engines to crawl, index, rank the website
 - Product structured data, JSON-LD implemented to enable rich search results
 - Secure website using HTTPS
   
-#### Off-page SEO: 
+##### Off-page SEO: 
 - Prepared for backlink building and outreach
 - Social sharing strategy to improve brand visibility and authority
 
