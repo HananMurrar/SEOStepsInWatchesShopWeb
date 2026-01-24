@@ -62,7 +62,7 @@ To evaluate the website SEO performance, I used several tools, and the results b
 - All links work correctly
 - All images are properly optimized
 - Page loads very fast
-##### Conclusion:
+###### Conclusion:
 - The SEO is correctly implemented, and the site provides a good user experience
 
 ##### Google rich results test:
