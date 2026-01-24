@@ -63,7 +63,7 @@ To evaluate the website SEO performance, I used several tools, and the results b
 - All images are properly optimized
 - Page loads very fast
 
-- Conclusion: the SEO is correctly implemented, and the site provides a good user experience
+**Conclusion:** the SEO is correctly implemented, and the site provides a good user experience
 
 ##### Google rich results test:
 - Page was successfully crawled and indexed
