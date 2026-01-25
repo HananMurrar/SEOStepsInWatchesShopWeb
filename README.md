@@ -77,7 +77,7 @@ Conclusion: the structured data is properly implemented, and the page is ready f
 
 ##### Google keyword planner - free:
 - Main keyword: watches online
-- Average monthly searches: 1200
+- Average monthly searches: 1200 searches
 - Competition: medium
 
 Conclusion: this keyword is suitable for content optimization to improve search visibility
@@ -88,10 +88,10 @@ Conclusion: this keyword is suitable for content optimization to improve search 
 Conclusion: for accurate data collection and analysis, the website needs to be live on Google
 
 ##### Ahrefs - backlink checker free:
-- Domain rating (DN): 92
+- Domain rating (DN): 92/100
 - URL rating (UR): not available
-- Total backlinks: 0
-- Linking websites: 0
+- Total backlinks: 0 links
+- Linking websites: 0 websites
 
 Conclusion: this is expected for a new project, as the website is promoted, backlinks will grow, which will improve authority and search engine ranking potential
 
