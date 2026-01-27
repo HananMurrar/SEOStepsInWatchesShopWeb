@@ -84,7 +84,7 @@ This allows search engines to crawl, index, rank the website
 - Links and images properly optimized
 - Page loads very fast
 
-******Conclusion:****** the SEO correctly implemented, excellent user experience
+###### Conclusion: the SEO correctly implemented, excellent user experience
 
 ##### Google rich results test:
 - Structured data detected and valid
