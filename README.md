@@ -84,33 +84,33 @@ This allows search engines to crawl, index, rank the website
 - Links and images properly optimized
 - Page loads very fast
 
-###### Conclusion: the SEO correctly implemented, excellent user experience
+Conclusion: the SEO correctly implemented, excellent user experience
 
 ##### Google rich results test:
 - Structured data detected and valid
 - Page eligible for Google rich results
 - No errors found
 
-****Conclusion:**** ready for rich results
+Conclusion: ready for rich results
 
 ##### Google keyword planner - free:
 - Main keyword: watches online
 - Average monthly searches: 1200 searches
 - Competition: medium
 
-****Conclusion:**** suitable keyword for content optimization
+Conclusion: suitable keyword for content optimization
 
 ##### Google analytics and Google search console:
 - The website ready for tracking
 
-****Conclusion:**** for accurate data collection and analysis, the website needs to be live on Google
+Conclusion: for accurate data collection and analysis, the website needs to be live on Google
 
 ##### Ahrefs - backlink checker free:
 - Domain rating (DN): 92/100
 - Total backlinks: 0 links
 - Linking websites: 0 websites
 
-****Conclusion:**** expected for a new project, backlinks will grow as website promotion increases
+Conclusion: expected for a new project, backlinks will grow as website promotion increases
 
 ##### GTmetrix - free:
 - Performance score: 99%
@@ -119,7 +119,7 @@ This allows search engines to crawl, index, rank the website
 - Total blocking time (TBT): 0ms
 - Cumulative layout shift (CLS): 0.05
 
-******Conclusion:****** excellent performance, meets Core Web Vitals standards
+Conclusion: excellent performance, meets Core Web Vitals standards
 
 ---
 
@@ -136,5 +136,3 @@ This allows search engines to crawl, index, rank the website
 - Difference between SEO, AEO, GEO
 - How search engines crawl, index, rank websites
 - How to optimize a live website
-
----
