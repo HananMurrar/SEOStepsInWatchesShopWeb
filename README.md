@@ -51,7 +51,7 @@ This allows search engines to crawl, index, rank the website
 - Optimized page speed and performance
 - The robots.txt file to guide search engine crawlers
 - The sitemap.xml file for efficient indexing
-- Product structured data (JSON-LD) for rich search results
+- Product structured data for rich search results
 - Secure website using HTTPS
 
 ##### Off-page SEO: 
