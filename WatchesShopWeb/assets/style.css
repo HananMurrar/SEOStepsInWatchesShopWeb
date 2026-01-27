@@ -97,6 +97,7 @@
     border: 1px solid black;
     background: none;
     cursor: pointer;
+    color: black;
 }
 
 .product-card button:hover {
@@ -109,6 +110,10 @@
     background: #f1f1f1;
     padding: 60px;
     text-align: center;
+}
+
+.about h2 {
+    margin-bottom: 20px;
 }
 
 .about p {
@@ -126,8 +131,20 @@
     font-weight: bold;
 }
 
-.about h2 {
+/* for frequently asked questions */
+
+.faq {
+    background: white;
+    padding: 60px;
+    text-align: center;
+}
+
+.faq h2 {
     margin-bottom: 20px;
+}
+
+.faq p {
+    margin-bottom: 15px;
 }
 
 /* for footer */
