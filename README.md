@@ -2,7 +2,7 @@
 
 This is a **practice SEO project** built to demonstrate different SEO skills on a real, deployed website
 
-The website showcases a small collection of watches with fully optimized pages following SEO, AEO, GEO best practices
+The website showcases a small collection of watches with fully optimized pages following SEO, AEO, GEO practices
 
 The website simulates a real-world online watch store and demonstrates how SEO techniques are applied from planning to deployment
 
@@ -119,7 +119,7 @@ This allows search engines to crawl, index, rank the website
 - Total blocking time (TBT): 0ms
 - Cumulative layout shift (CLS): 0.05
 
-****Conclusion:**** excellent performance, meets Core Web Vitals standards
+******Conclusion:****** excellent performance, meets Core Web Vitals standards
 
 ---
 
@@ -130,8 +130,6 @@ This allows search engines to crawl, index, rank the website
 - Google analytics and Google search console
 - Ahrefs - backlink checker free
 - GTmetrix - free
-
----
 
 #### What I learned:
 - Practical implementation of structured data (JSON-LD, schema.org)
