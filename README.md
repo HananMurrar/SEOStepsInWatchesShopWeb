@@ -131,6 +131,8 @@ Conclusion: excellent performance, meets Core Web Vitals standards
 - Ahrefs - backlink checker free
 - GTmetrix - free
 
+---
+
 #### What I learned:
 - Practical implementation of structured data (JSON-LD, schema.org)
 - Difference between SEO, AEO, GEO
