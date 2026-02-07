@@ -1,5 +1,4 @@
 ### SEO steps in the watches shop web
-
 This is a **practice SEO project** built to demonstrate different SEO skills on a real, deployed website
 
 The website showcases a small collection of watches with fully optimized pages following SEO, AEO, GEO practices
@@ -15,7 +14,6 @@ The website simulates a real-world online watch store and demonstrates how SEO t
 ---
 
 #### Live website deployment:
-
 This website is deployed and publicly accessible using **Netlify**
 
 ##### Live site:
