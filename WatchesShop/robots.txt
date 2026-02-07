@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Sitemap: https://watches-shop-online.netlify.app/sitemap.xml
+
+# the robots.txt tells search engines which pages to crawl or ignore
+
+# User-agent: * → means all search engines
+# Allow: / → means they can see everything
+# Sitemap: the link → points search engines to your sitemap
