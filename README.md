@@ -30,7 +30,6 @@ This allows search engines to crawl, index, rank the website
 ---
 
 #### SEO implementations and features:
-
 ##### On-page SEO:
 - Unique `<title>` and `<meta description>` for the page
 - Proper use of heading structure `<h1>`, `<h2>`, `<h3>` for hierarchy and clarity
@@ -59,7 +58,6 @@ This allows search engines to crawl, index, rank the website
 ---
 
 #### SEO specialized branches:
-
 ##### AEO - answer engine optimization:
 - Implements frequently asked questions page structured data
 - Content structured as questions and answers for AI and featured snippets
@@ -76,7 +74,6 @@ This allows search engines to crawl, index, rank the website
 ---
 
 #### SEO analysis results:
-
 ##### Seocheckr - free SEO checker:
 - Page title and meta description optimized
 - Links and images properly optimized
