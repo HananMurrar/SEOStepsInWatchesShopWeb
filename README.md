@@ -46,10 +46,10 @@ This allows search engines to crawl, index, rank the website
 ##### Technical SEO:
 - Mobile-friendly and responsive design
 - Optimized page speed and performance
-- The robots.txt file to guide search engine crawlers
-- The sitemap.xml file for efficient indexing
+- The `robots.txt` file to guide search engine crawlers
+- The `sitemap.xml` file for efficient indexing
 - Product structured data for rich search results
-- Secure website using HTTPS
+- Secure website using `HTTPS`
 
 ##### Off-page SEO: 
 - Prepared for backlink building and outreach
@@ -129,7 +129,7 @@ Conclusion: excellent performance, meets Core Web Vitals standards
 ---
 
 #### What I learned:
-- Practical implementation of structured data (JSON-LD, schema.org)
+- Practical implementation of structured data, like `JSON-LD`, `schema.org`
 - Difference between SEO, AEO, GEO
 - How search engines crawl, index, rank websites
 - How to optimize a live website
